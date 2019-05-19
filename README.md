@@ -1,6 +1,6 @@
 # card_flip
 
-A new Flutter project.
+A 3-D Card Flipping Carousel. 
 
 ## Getting Started
 
